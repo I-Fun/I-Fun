@@ -4,3 +4,6 @@
 - 🌱 I’m currently learning Go Lang, NextJS & RUST
 - 👯 I’m looking to collaborate on Web3 Team on Europe & MENA
 - 📫 How to reach me: https://www.linkedin.com/in/irfanakbarr
+
+
+![Skill Icons](https://skillicons.dev/icons?i=aws,gcp,azure,grafana,prometheus,elasticsearch,docker,kubernetes,ansible,jenkins,cloudflare,linux,windows,apple,bash,go,powershell,github,gitlab,rust&perline=10)
