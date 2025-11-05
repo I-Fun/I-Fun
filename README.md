@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Lytogame & Thamrin Net as SRE & Cloud Engineer
 - 🌱 I’m currently learning Go Lang, NextJS & RUST
-- 👯 I’m looking to collaborate on Web3 Team on Europe & MENA
+- 👯 I’m looking for job on Web3 Team on Europe & MENA
 - 📫 How to reach me: https://www.linkedin.com/in/irfanakbarr
 
 <p align="center">
